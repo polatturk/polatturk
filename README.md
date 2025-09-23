@@ -41,14 +41,11 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=polatturk&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=polatturk&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=polatturk&theme=dark&hide_border=false" alt="GitHub Streak" />
+<p>
+  <img align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=polatturk&theme=dark&hide_border=false" width="360" alt="GitHub Streak" />
 </p>
-
 
