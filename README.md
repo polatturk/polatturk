@@ -36,4 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=polatturk&show_icons=true&locale=en&layout=compact" alt="polatturk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polatturk&show_icons" alt="polatturk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polatturk&show_icons" alt="polatturk" width="400" /></p>
