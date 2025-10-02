@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=polatturk&label=Profile%20views&color=0e75b6&style=flat" alt="polatturk" /> 
 </p>
 
-- 🔭 I’m currently working on [Flappr](https://flappr.polatturkk.com.tr/)
+- 🔭 I’m currently working on the notification system in [Flappr](https://flappr.polatturkk.com.tr/) using SignalR.
 - 🌱 I’m currently learning **Microservices architecture & Elasticsearch & Cloud services (AWS / Azure)**
 - 👯 I’m looking to collaborate on **Open source .NET projects Backend & API development**
 - 🤝 I’m looking for help with **Microservices architecture & Elasticsearch**
