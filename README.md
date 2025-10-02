@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **[Flappr](https://flappr.polatturkk.com.tr/) with SignalR**
 - 🌱 I’m currently learning **Microservices architecture & Elasticsearch & Cloud services (AWS / Azure) and CI/CD**
 - 👯 I’m looking to collaborate on **Open source .NET projects Backend & API development**
-- 🤝 I’m looking for help with **Microservices architecture & Elasticsearch**
+- 🤝 I’m looking for help with **Microservices architecture & Cloud services (AWS / Azure)**
 - 👨‍💻 All of my projects are available at [https://polatturkk.com.tr/](https://polatturkk.com.tr/)
 - 💬 Ask me about **C#, .NET, SignalR, API development & Dapper vs Entity Framework**
 - 📫 How to reach me **polatturr52@gmail.com**
