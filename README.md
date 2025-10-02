@@ -7,12 +7,12 @@
   <img src="https://komarev.com/ghpvc/?username=polatturk&label=Profile%20views&color=0e75b6&style=flat" alt="polatturk" /> 
 </p>
 
-- 🔭 I’m currently working on [Flappr](https://flappr.polatturkk.com.tr/) with SignalR.
-- 🌱 I’m currently learning **Microservices architecture & Elasticsearch & Cloud services (AWS / Azure)**
+- 🔭 I’m currently working on **[Flappr](https://flappr.polatturkk.com.tr/) with SignalR**
+- 🌱 I’m currently learning **Microservices architecture & Elasticsearch & Cloud services (AWS / Azure) and CI/CD**
 - 👯 I’m looking to collaborate on **Open source .NET projects Backend & API development**
 - 🤝 I’m looking for help with **Microservices architecture & Elasticsearch**
 - 👨‍💻 All of my projects are available at [https://polatturkk.com.tr/](https://polatturkk.com.tr/)
-- 💬 Ask me about **C#, .NET, API development & Dapper vs Entity Framework & Consuming APIs with RestSharp**
+- 💬 Ask me about **C#, .NET, SignalR, API development & Dapper vs Entity Framework**
 - 📫 How to reach me **polatturr52@gmail.com**
 - ⚡ Fun fact **"Coffee tastes better when the code works."**
 
