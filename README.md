@@ -43,7 +43,5 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=polatturk&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
 <p>
-  <img align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=polatturk&theme=dark&hide_border=false" width="360" alt="GitHub Streak" />
-</p>
+<img align="center" src="https://streak-stats.demolab.com/?user=polatturk&theme=dark&hide_border=false" width="360" alt="GitHub Streak" /></p>
