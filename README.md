@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Polat Türk</h1>
 <h3 align="center">💻 Backend Developer | .NET & C# | 🚀 Always Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlhOXduMjJzNHJrNnQ2dG9xcjIxdm1jaWQ5NHoyZ2JnMm9zajE0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF6bWNrbGc4bGVheXRqNGRqZXQwamttbmJ5NThza3puazg0cTQxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=polatturk&label=Profile%20views&color=0e75b6&style=flat" alt="polatturk" /> 
