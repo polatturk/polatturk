@@ -1,20 +1,20 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Polat Türk</h1>
-<h3 align="center">💻 Backend Developer | .NET & C# | 🚀 Always Learning</h3>
+<h3 align="center">💻 Backend Developer | C# & .NET Core | 🚀 Always Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF6bWNrbGc4bGVheXRqNGRqZXQwamttbmJ5NThza3puazg0cTQxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=polatturk&label=Profile%20views&color=0e75b6&style=flat" alt="polatturk" /> 
 </p>
 
-- 🔭 I’m currently working on **[Flappr](https://flappr.polatturkk.com.tr/) with SignalR**
-- 🌱 I’m currently learning **Microservices architecture & Elasticsearch & Cloud services (AWS / Azure) and CI/CD**
+- 🔭 I’m currently working on **designing APIs with layered architecture**
+- 🎯 I’m planning to learn **Microservices architecture, Elasticsearch & Cloud services (AWS / Azure)**
 - 👯 I’m looking to collaborate on **Open source .NET projects Backend & API development**
 - 🤝 I’m looking for help with **Microservices architecture & Cloud services (AWS / Azure)**
 - 👨‍💻 All of my projects are available at [https://polatturkk.com.tr/](https://polatturkk.com.tr/)
-- 💬 Ask me about **C#, .NET, SignalR, API development & Dapper vs Entity Framework**
+- 💬 Ask me about **C#, .NET Core, API development & Dapper vs Entity Framework**
 - 📫 How to reach me **polatturr52@gmail.com**
-- ⚡ Fun fact **"Coffee tastes better when the code works."**
+- ⚡ Fun fact **"Coffee tastes better when the code works:)"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
