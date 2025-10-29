@@ -39,8 +39,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polatturk&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="30%">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=polatturk&theme=radical&hide_border=true" alt="Streak Stats" width="35%">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polatturk&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&hide_border=false" alt="Top Languages">
 </p>
