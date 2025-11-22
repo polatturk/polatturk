@@ -14,6 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://polatturkk.com.tr/](https://polatturkk.com.tr/)
 - 💬 Ask me about **C#, .NET Core, API development & Dapper vs Entity Framework**
 - 📫 How to reach me **polatturkdev@gmail.com**
+- ⚡ Fun fact **"Coffee tastes better when the code works:)"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
