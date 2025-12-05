@@ -3,6 +3,9 @@
 <h3 align="center">💻 Backend Developer | C# & .NET Core | 🚀 Always Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF6bWNrbGc4bGVheXRqNGRqZXQwamttbmJ5NThza3puazg0cTQxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=polatturk&label=Profile%20views&color=0e75b6&style=flat" alt="polatturk" /> 
+</p>
 
 - 🔭 I’m currently working on **designing APIs with layered architecture**
 - 🎯 I’m planning to learn **Microservices architecture, Elasticsearch & Cloud services (AWS / Azure)**
