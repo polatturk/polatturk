@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Polat Türk</h1>
-<h3 align="center">💻 Backend Developer | C# & .NET Core | 🚀 Always Learning</h3>
+<h3 align="center">💻 Software Developer | .NET Core • Flutter | 🚀 Always Learning</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF6bWNrbGc4bGVheXRqNGRqZXQwamttbmJ5NThza3puazg0cTQxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
 
