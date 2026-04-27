@@ -1,84 +1,65 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<h1 align="center">Hi 👋, I'm Polat Türk</h1>
-<h3 align="center">💻 Backend Developer | C# & .NET Core | 🚀 Always Learning</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF6bWNrbGc4bGVheXRqNGRqZXQwamttbmJ5NThza3puazg0cTQxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
+  <h1>Polat Türk</h1>
+  <p align="center">
+    <b>Software Developer specializing in Backend Systems & Scalable Architecture</b>
+  </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=polatturk&label=Profile%20views&color=0e75b6&style=flat" alt="polatturk" /> 
-</p>
+  <p align="center">
+    <a href="https://linkedin.com/in/polatturk" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:polatturkdev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://polatturkk.com.tr/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=google-chrome&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on **designing APIs with layered architecture**
-- 🎯 I’m planning to learn **Microservices architecture, Elasticsearch & Cloud services (AWS / Azure)**
-- 👯 I’m looking to collaborate on **Open source .NET projects Backend & API development**
-- 🤝 I’m looking for help with **Microservices architecture & Cloud services (AWS / Azure)**
-- 👨‍💻 All of my projects are available at [https://polatturkk.com.tr/](https://polatturkk.com.tr/)
-- 💬 Ask me about **C#, .NET Core, API development & Dapper vs Entity Framework**
-- 📫 How to reach me **polatturkdev@gmail.com**
-- ⚡ Fun fact **"Coffee tastes better when the code works:)"**
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 👨‍💻 About Me
 
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a> 
 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a> 
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
+I am a **Software Developer** focused on building backend services with the **.NET ecosystem**. I enjoy working on API design, architectural patterns, and creating maintainable code. Currently, I am expanding my knowledge in cloud technologies and distributed systems.
 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a> 
+- 🏗 **Focus:** Developing Web APIs with ASP.NET Core and Entity Framework.
+- ⚙️ **Practicing:** N-Tier Architecture and Clean Architecture principles.
+- 🚀 **Learning:** Working on Docker, Microservices, and Cloud (AWS/Azure).
+- 📱 **Other Interests:** Building cross-platform applications with Flutter.
+- ⚡ **Fun Fact:** "Coffee tastes better when the code works on the first try."
 
-  <!-- .NET Core -->
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
-  </a> 
+---
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
+### 💻 Technical Ecosystem
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
+<div align="center">
 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
+| **Backend** | **Databases** | **Mobile & Web** | **Tools** |
+| :--- | :--- | :--- | :--- |
+| ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![WebAPI](https://img.shields.io/badge/-WebAPI-512BD4?style=flat-square) | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
-  <!-- Dart -->
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  </a>
+</div>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
+---
 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a> 
+### 📊 Engineering Metrics
 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a> 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=polatturk&theme=tokyonight&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=0077B5" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polatturk&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&title_color=0077B5" width="45%" />
+</div>
 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a> 
+---
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a> 
-</p>
+<div align="center">
+<sub>Built with ❤️ by Polat Türk. Let's build something amazing together.</sub>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=polatturk&label=PROFILE%20VIEWS&color=0077B5&style=flat-square" />
+</div>
